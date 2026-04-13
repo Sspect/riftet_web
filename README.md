@@ -1,1 +1,1 @@
-website describing a mvp of rift
+website describing a mvp of riftet
